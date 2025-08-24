@@ -1,0 +1,45 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+*.py[cod]
+*$py.class
+build/
+dist/
+wheels/
+*.egg-info
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv
+.env
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+uploads/
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Environment variables
+.env
